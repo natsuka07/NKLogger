@@ -2,7 +2,7 @@
   "ErrorUtils.ErrorTitle": "An error occurred in {0} mod",
   "ErrorUtils.FoundError": "Searching for an error",
   "ErrorUtils.ServerDisconnect": "Unable to check error: Disconnected from server",
-  "ErrorUtils.ErrorMessage": "Error message : Not connected to internet.",
+  "ErrorUtils.ErrorMessage": "Error message : Not connected to internet",
   "ErrorUtils.InternetDisconnect": "Unable to check error",
   "ErrorUtils.ErrorReport": "오류 신고하기",
   "ErrorUtils.GoDiscord": "디스코드로 이동",
